@@ -11,8 +11,6 @@ ORM框架：Mybatis
 前端框架：Bootstrap 
 运行环境 jdk8+tomcat8+mysql+Eclipse+maven
 项目技术： spring+spring mvc+mybatis+bootstrap+jquery
-前人栽树后人乘凉，这个原github某个作者写的，原系统是IDEA开发，本人修改为了eclipse版本，增加和删除了某些功能。
-欢迎下载。
 
 具体页面：
 登录页：
